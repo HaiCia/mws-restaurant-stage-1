@@ -9,5 +9,5 @@ Convert unresponsive website to full mobile-friendly web application, with an ac
 To open the app you need to:
 * install python
 * open terminal and type in "python -m http.server 8000",
-* the application is available at the address localhost:8000
+* the application is available at the address `localhost:8000`
 
